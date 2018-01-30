@@ -1,5 +1,7 @@
 # Map, Reduce, Filter - No loops needed
 
+![Travis CI](https://api.travis-ci.org/manniL/map-reduce-filter-no-loops-needed.svg?branch=master)
+
 Welcome to the repository of my second talk!
 Take a look at the Reveal.js slides and be sure to create a PR if you notice something weird.
 
